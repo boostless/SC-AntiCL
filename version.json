@@ -1,0 +1,4 @@
+{
+  "version":"1.1.0",
+    "changelog":"If player got shot, he will also be put in combat state, small bug fixes"
+}
