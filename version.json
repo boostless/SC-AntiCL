@@ -1,4 +1,4 @@
 {
-  "version":"1.3",
-    "changelog":"^2Fixed bug of not showing text where player disconnected^0"
+  "version":"1.4",
+    "changelog":"^2Bug fixes, player wont be random banned when disconnected^0"
 }
